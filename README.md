@@ -1,3 +1,3 @@
 # collab-repo
 
-John made a change locally
+John made a change locally.
